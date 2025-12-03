@@ -142,5 +142,4 @@ Cada página del sitio tiene su clase propia con sus elementos y métodos.
 ## 👩‍💻 Autor
 
 **Mercedes Pilar Orellana**
-Diplomatura en Testing – ICARO
-QA Trainee
+ - QA Trainee
